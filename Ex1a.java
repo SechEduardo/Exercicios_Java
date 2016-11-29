@@ -1,4 +1,21 @@
 /**
+
+* Unicesumar ? Centro Universitário Cesumar
+
+* Curso: Análise e Desenvolvimento de Sistemas
+
+* Autor(es):Eduardo Sech Dziedzic
+
+* Data:01/11/2016
+
+* Repositório: https://github.com/SechEduardo/Exercicios_Java/edit/master/Ex1a.java
+
+* Descrição: Exercicio 1 da lista de exercicios de java referente ao programa que calcula a quantidade
+de combustivel usada durante uam viagem.
+
+*/
+
+/**
 1a) Calcule a quantidade de litros de combustível gasta em uma viagem, utilizando um automóvel
 que faz 12 km por litro. Para obter o cálculo, o usuário deve fornecer o tempo gasto na viagem
 e a velocidade média. Desta forma, será possível obter a distância percorrida com a fórmula
